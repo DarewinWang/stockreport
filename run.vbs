@@ -1,0 +1,1 @@
+createobject("wscript.shell").run "C:/Users/WangDong/Desktop/stock.bat",0
